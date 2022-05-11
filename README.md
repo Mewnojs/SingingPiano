@@ -10,7 +10,7 @@
 
 ### Installation
 0. Obtain [Python](https://python.org);
-0. Use <code>pip -r requirments.txt</code> to install all the requirements for this tool;
+0. Use <code>pip install -r requirements.txt</code> to install all the requirements for this tool;
 0. For non-windows users: Manually build the [native module](libs/mydft), here is the command: (under the source directory)<code>python3 setup.py build</code>, and put the binary module file into the [libs](libs) directory;
 0. Run [SingingpianoQt.pyw](SingingpianoQt.pyw) and enjoy!
 
