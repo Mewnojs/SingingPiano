@@ -10,7 +10,7 @@
 
 ### 安装步骤
 0. 取得 [Python](https://python.org);
-0. 使用 <code>pip -r requirments.txt</code> 安装所有必需依赖库;
+0. 使用 <code>pip install -r requirements.txt</code> 安装所有必需依赖库;
 0. 非Windows用户: 用如下命令手动构建[本地库](/libs/mydft): (在其源代码目录下)<code>python3 setup.py build</code>, 并将编译好的二进制模块文件放入[libs](/libs)目录;
 0. 运行[SingingpianoQt.pyw](/SingingpianoQt.pyw), 大功告成!
 
